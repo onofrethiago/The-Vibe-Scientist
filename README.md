@@ -11,6 +11,7 @@ This is the mono repo for the "The Vibe Scientist" blog.
 
 - [Field Journal Entry #001](https://thevibescientist.blogspot.com/2026/03/the-vibe-scientist-field-journal-entry.html)
 - MultiLanguagePromptsFieldNote002 (In Progress)
+- [Secure Code Generation Field Note #003](file:///c:/Users/tb-on/Projects/TheVibeScientistBlog/SecureCodeGenerationFieldNote003/output.md)
 
 ---
 
