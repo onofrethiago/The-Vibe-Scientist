@@ -72,4 +72,3 @@ All content, code snippets, and prompts provided by **The Vibe Scientist™** ar
 
 **License**: All code snippets shared on this blog are licensed under the **Apache License 2.0**. You may use, modify, and distribute the code, provided you retain this notice and the original copyright.
 
-© 2026 The Vibe Scientist™. All Rights Reserved. "Vibe Engineering™" and "The Vibe Scientist™" are trademarks of the author.
