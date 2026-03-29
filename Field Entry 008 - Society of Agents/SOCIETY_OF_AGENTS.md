@@ -76,3 +76,6 @@ When building your society, define a global **Constitution** that all agents (es
 - **Temperature Variation**: Use `temperature=0.7` for the Proposer (creativity) and `temperature=0.1` for the Auditor and Synthesizer (strictness).
 - **Tool Access**: Give the Auditor access to specific tools (Search, Code Interpreter) to verify claims made by the Proposer.
 - **Traceability**: Always store the "deliberation_log" to understand *why* a particular decision was reached—this is essential for "institutional accountability" as described in arXiv:2603.20639.
+
+**License**: All code snippets shared on this blog are licensed under the **Apache License 2.0**. You may use, modify, and distribute the code, provided you retain this notice and the original copyright.
+
