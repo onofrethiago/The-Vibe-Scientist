@@ -20,4 +20,4 @@ This script implements a Memory-Efficient Industrial IoT Data Ingestion Pipeline
 - **Mock Generator**: Simulates a live machine stream of 50,000 telemetry packets to demonstrate how the pipeline handles real-time pressure without crashing or memory-leaking.
 
 ---
-© 2026 The Vibe Scientist™. All Rights Reserved.
+© 2026 The Vibe Scientist™. All Rights Reserved. shared under Apache 2.0 license."Vibe Engineering™" and "The Vibe Scientist™" are trademarks of the author.

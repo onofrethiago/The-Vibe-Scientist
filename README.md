@@ -13,6 +13,7 @@ This is the mono repo for the "The Vibe Scientist" blog.
 - MultiLanguagePromptsFieldNote002 (In Progress)
 - [Secure Code Generation Field Note #003](file:///c:/Users/tb-on/Projects/TheVibeScientistBlog/SecureCodeGenerationFieldNote003/output.md)
 - [Industrial IoT Data Ingestion Field Note #005](./FieldNote005/README.md)
+- [Society of Agents Field Entry #008](./Field%20Entry%20008%20-%20Society%20of%20Agents/README.md)
 
 ---
 
